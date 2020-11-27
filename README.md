@@ -1,4 +1,4 @@
-![](picture_0.png)
+![](picture_1.png)
 
 
 # Vehicle-Showroom-Automation
